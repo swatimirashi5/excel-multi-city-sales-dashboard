@@ -22,8 +22,8 @@ The dashboard contains four interactive views, each connected to a specific Pivo
 
 - **Dashboard 1 (Top 5 Sales Executives)** → Linked to **Pivot Table 1**  
 - **Dashboard 2 (Bottom 5 Sales Executives)** → Linked to **Pivot Table 2**  
-- **Dashboard 3 (Target Hit % Wise Executives)** → Linked to **Pivot Table 3**  
-- **Dashboard 4 (Away from Target % Wise Executives)** → Linked to **Pivot Table 4**  
+- **Dashboard 3 (Target Hit % Wise sales Executives)** → Linked to **Pivot Table 3**  
+- **Dashboard 4 (Away from Target % Wise sales Executives)** → Linked to **Pivot Table 4**  
 
 **Highlights:**
 
@@ -49,9 +49,9 @@ The dashboard contains four interactive views, each connected to a specific Pivo
 - Automated region-wise highlighting for top-performing and underperforming executives  
 - Dynamic region filtering using VBA  
 - Executive-ready visualizations:
-  - **Bar Chart:** → linked to Pivot Table 1 (Top 5 Executives)  
-  - **Pie Chart:** → linked to Pivot Table 3 (Target Hit % Wise)  
-  - **Line Chart:** → linked to Pivot Table 4 (Away from Target % Wise)
+  - **Bar Chart:** → linked to Pivot Table 1 (Top 5 Sales Executives)  
+  - **Pie Chart:** → linked to Pivot Table 3 (Target Hit % Wise sales Executives)  
+  - **Line Chart:** → linked to Pivot Table 4 (Away from Target % Wise sales Executives)
 
 ---
 
