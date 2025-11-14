@@ -1,70 +1,92 @@
 # Multi-City Sales Performance Dashboard Using Excel with Automation 📊
 
-This project showcases a fully automated, multi-city sales analytics dashboard built using Microsoft Excel, Pivot Tables, Slicers, Charts, and VBA-based automation.  
-The dashboard provides real-time visibility into total sales, target achievement, variances, and city-wise performance comparisons across multiple regions.
+## Overview
+A corporate-style automated Excel dashboard for analyzing multi-city sales performance. Built using Excel formulas, Pivot Tables, Slicers, Charts, and VBA automation, it provides real-time KPI insights, target tracking, and executive-ready reporting.
+
+> **Dataset:** Contains EmpCode, Sales Executive, Region, Day1–Day5 sales, and Sales Target (sourced from a public GitHub repository).
 
 ---
 
-## Dashboard Preview:
+## Reporting Process
 
+1. **Understanding Data:** Analyze dataset to identify KPIs and reporting requirements.  
+2. **Building Logic:** Define metrics: Total Sales, Target Hit %, Away from Target %.  
+3. **Applying Formulas:** Compute metrics using Excel formulas.  
+4. **Creating Dashboard:** Build pivot tables, charts, slicers; automate region filtering and button views using VBA.
+
+---
+
+## Dashboard & Button Views
+
+Four button views:
+
+1. Top 5 Sales Executives  
+2. Bottom Sales Executives  
+3. Target Hit % Wise Sales Executives  
+4. Away from Target % Wise Sales Executives  
+
+**Highlights:**
+
+- Top-performing sales executives for each region  
+- Underperforming sales executives for each region  
+- KPI tracking: Total Sales, Target Hit %, Away from Target %  
+
+**Checkbox behavior for region filtering:**
+
+- **Checkbox ticked:** Pivot table & chart filtered for selected city.  
+- **Checkbox unticked:** Pivot table & chart show data for all cities.
+
+**Screenshot Preview:**  
 ![Dashboard Preview](images/sales-dashboard.jpg)
 
+---
 
+## Key Features
+
+- Multi-city sales analysis across Chennai, Delhi, Mumbai, Pune, Nagpur, Patna, Ranchi, Surat  
+- Dynamic button-driven views: Top/Bottom performers, Target Hit %, Away from Target %  
+- Automatically highlights top-performing and underperforming executives per region  
+- Automated region-wise filtering using VBA  
+- Executive-ready visualizations: Bar, Line, Pie charts  
 
 ---
 
-## Key Features:
+## VBA Automation
 
-- **Multi-City Sales Analysis:** Chennai, Delhi, Mumbai, Pune, Nagpur, Patna, Ranchi, Surat  
-- **Interactive Dashboards:** Navigate easily across four interconnected dashboards using VBA-driven buttons  
-- **Dynamic Reports:** Pivot Table–based analysis for flexible, real-time insights  
-- **Slicers & Filters:** Quick filtering by city, sales executive, or product  
-- **Visual Analytics:** Bar, Line, and Pie charts for intuitive KPI tracking  
-- **Target Monitoring:** Track Target Hit %, Variance, and city-wise performance gaps  
-- **Performance Insights:** Identify top-performing and low-performing sales executives  
+**Purpose:** Automates connecting/disconnecting region slicers to pivot tables and toggling button views.  
+
+**Effect:** Eliminates manual filtering, updates charts dynamically for selected regions.
+
+> **Full VBA Code:** Click to view VBA code  
 
 ---
 
-## Business Impact:
+## Business Impact
 
 - Provides real-time insights for strategic decision-making  
-- Helps identify underperforming regions and potential improvement areas  
-- Reduces manual work through automated dashboard navigation using VBA  
-- Delivers executive-ready visual reports suitable for management presentations  
+- Identifies top and underperforming sales executives per region to optimize sales strategy  
+- Reduces manual effort through automation  
+- Delivers professional, executive-ready dashboards  
 
 ---
 
-## Getting Started:
+## Getting Started
 
-1. Download or clone the repository  
-2. Open **Sales_Dashboard.xlsx** in Excel  
-3. Use Dashboard 1–4 buttons (VBA automated) to switch between views  
-4. Explore pivot tables, slicers, and charts to analyze the data  
-
----
-
-## Project Overview:
-
-**Objective:** Build a corporate-style, automated Excel dashboard that enables multi-city sales analysis, KPI tracking, and interactive reporting.
-
-### Tools & Skills Demonstrated:
-
-- **Microsoft Excel:** Pivot Tables, Slicers, Filters, Charts  
-- **VBA Automation:** Button-based navigation and streamlined report flow  
-- **Data Analysis:** Target vs Actual calculations, Variance insights, KPI breakdown  
-- **Reporting:** Clean, executive-level dashboard visualization  
+1. Clone or download this repository.  
+2. Open `Multi-city-sales-dashboard.xlsx` in Excel.  
+3. Use buttons to switch views; slicers update pivot tables & charts dynamically.  
 
 ---
 
-## Connect with Me:
+## Connect with Me
 
-**LinkedIn Profile:** https://www.linkedin.com/in/swatimirashi
-
-**Email ID:** swatimirashi298@gmail.com
+- **LinkedIn Profile:** [https://www.linkedin.com/in/swatimirashi](https://www.linkedin.com/in/swatimirashi)  
+- **Email ID:** swatimirashi298@gmail.com  
 
 ---
 
-## Tags:
+## Tags
 
 #Excel #Automation #VBA #PivotTables #SalesAnalytics #Dashboard  
 #BusinessIntelligence #DataVisualization #KPITracking #CorporateReporting
+
