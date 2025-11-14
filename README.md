@@ -1,4 +1,4 @@
-# Multi-City Sales Performance Dashboard Using Excel with Automation 📊
+# 📊 Multi-City Sales Performance Dashboard Using Excel with Automation 
 
 ## Overview
 A corporate-style automated Excel dashboard for analyzing multi-city sales performance. Built using Excel formulas, Pivot Tables, Slicers, Charts, and VBA automation, it provides real-time KPI insights, target tracking, and executive-ready reporting.
