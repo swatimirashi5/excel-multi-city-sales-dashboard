@@ -7,7 +7,7 @@ The dashboard provides real-time visibility into total sales, target achievement
 
 ## Dashboard Preview:
 
-Dashboard Preview
+![Dashboard Preview](https://drive.google.com/file/d/1M1w2CqnlhdYR9qVigT--tu-6GTJoD-ZB/view?usp=drive_link)
 
 ---
 
