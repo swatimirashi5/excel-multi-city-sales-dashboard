@@ -18,23 +18,23 @@ This project presents a **well-structured automated Excel dashboard** to analyze
 
 ## Dashboard & Button Views
 
-Four button views allow interactive analysis of pivot tables by selected region:
+The dashboard contains four interactive views, each connected to a specific Pivot Table:
 
-- **Dashboard 1:** Top 5 Sales Executives  
-- **Dashboard 2:** Bottom 5 Sales Executives  
-- **Dashboard 3:** Target Hit % Wise Sales Executives  
-- **Dashboard 4:** Away from Target % Wise Sales Executives  
+- **Dashboard 1 (Top 5 Sales Executives)** → Linked to **Pivot Table 1**  
+- **Dashboard 2 (Bottom 5 Sales Executives)** → Linked to **Pivot Table 2**  
+- **Dashboard 3 (Target Hit % Wise Executives)** → Linked to **Pivot Table 3**  
+- **Dashboard 4 (Away from Target % Wise Executives)** → Linked to **Pivot Table 4**  
 
 **Highlights:**
 
-- Identifies top-performing sales executives per region  
-- Identifies underperforming sales executives per region  
-- Tracks KPIs: Total Sales, Target Hit %, Away from Target %  
+- Top-performing sales executives for each region  
+- Underperforming sales executives for each region  
+- KPI tracking: Total Sales, Target Hit %, Away from Target %  
 
 **Region Filtering Behavior:**
 
 - **Checkbox ticked:** Pivot table and chart filtered for the selected city  
-- **Checkbox unticked:** Pivot table and chart display data for all cities  
+- **Checkbox unticked:** Pivot table and chart display data for all cities
 
 **Dashboard Preview:**  
 
@@ -49,9 +49,9 @@ Four button views allow interactive analysis of pivot tables by selected region:
 - Automated region-wise highlighting for top-performing and underperforming executives  
 - Dynamic region filtering using VBA  
 - Executive-ready visualizations:
-  - **Bar Chart:** Pivot Table 1 – Top 5 Executives  
-  - **Pie Chart:** Pivot Table 3 – Target Hit % Wise  
-  - **Line Chart:** Pivot Table 4 – Away from Target % Wise  
+  - **Bar Chart:** → linked to Pivot Table 1 (Top 5 Executives)  
+  - **Pie Chart:** → linked to Pivot Table 3 (Target Hit % Wise)  
+  - **Line Chart:** → linked to Pivot Table 4 (Away from Target % Wise)
 
 ---
 
