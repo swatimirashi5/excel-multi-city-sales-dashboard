@@ -37,6 +37,7 @@ Four button views allow interactive analysis of pivot tables by selected region:
 - **Checkbox unticked:** Pivot table and chart display data for all cities  
 
 **Dashboard Preview:**  
+
 ![Dashboard Preview](images/sales-dashboard.jpg)
 
 ---
