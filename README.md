@@ -21,7 +21,7 @@ A corporate-style automated Excel dashboard for analyzing multi-city sales perfo
 Four button views:
 
 1. Top 5 Sales Executives  
-2. Bottom Sales Executives  
+2. Bottom 5 Sales Executives  
 3. Target Hit % Wise Sales Executives  
 4. Away from Target % Wise Sales Executives  
 
