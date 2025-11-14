@@ -7,7 +7,7 @@ The dashboard provides real-time visibility into total sales, target achievement
 
 ## Dashboard Preview:
 
-![Dashboard Preview](images/multi-city-sales-dashboard.mp4)
+![Dashboard Preview](images/sales.jpg)
 
 
 
