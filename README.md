@@ -63,7 +63,7 @@ Four button views allow interactive analysis of pivot tables by selected region:
 - Dynamically updates charts and Pivot Tables based on selected region  
 - Enhances efficiency and usability for executive reporting  
 
-> **Full VBA Code:** [Click to view VBA code]()
+> **Full VBA Code:** [Click to view VBA code](VBA_code.txt)
 
 ---
 
